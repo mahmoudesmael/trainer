@@ -3,6 +3,7 @@
         <h1 class="display-1 font-weight-bold text--secondary text-center ma-5">
             Ninja Reaction Timer
         </h1>
+        <v-btn>play</v-btn>
         <v-row justify="center">
             <v-btn
                 class="white--text"
